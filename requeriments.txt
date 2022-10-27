@@ -1,0 +1,9 @@
+pip install html5lib
+pip install xlsxwriter
+pip install yfinance
+pip install pandas
+pip install termcolor
+pip install playsound
+pip install plotext
+pip install datetime
+pip install pytest
